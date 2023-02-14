@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="48dp"
         android:text="Escolha do APP"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
